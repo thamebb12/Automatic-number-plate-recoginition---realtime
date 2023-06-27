@@ -1,5 +1,5 @@
 # Automatic-number-plate-recoginition---realtime
-University project
+University project 
 Using YoloV8 to train model 
 Control parking barrier by Arduino UNO R3 WiFi  ATmega328P + Servo motor (MG90S)
 Check out my Project video
